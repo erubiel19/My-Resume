@@ -1,0 +1,15 @@
+body {
+  margin: auto;
+  max-width: 500px;
+  align-items: flex-start;
+  font-size: 13pt;
+  font-family: monospace;
+}
+
+div#profile {
+  font-family: fantasy;
+}
+
+div#experience {
+  
+}
