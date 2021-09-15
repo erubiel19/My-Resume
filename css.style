@@ -4,6 +4,7 @@ body {
   align-items: flex-start;
   font-size: 13pt;
   font-family: monospace;
+  background: coral;
 }
 
 div#profile {
@@ -12,4 +13,11 @@ div#profile {
 
 div#experience {
   
+}
+
+div#Education {
+  margin: auto;
+  max-width: 500px;
+  align-items: flex-start;
+  font-family: sans-serif;
 }
