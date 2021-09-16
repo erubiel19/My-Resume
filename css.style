@@ -2,22 +2,35 @@ body {
   margin: auto;
   max-width: 500px;
   align-items: flex-start;
-  font-size: 13pt;
-  font-family: monospace;
+  font-size: 15pt;
+  font-family: fantasy;
   background: coral;
 }
 
 div#profile {
   font-family: fantasy;
+  font-size: 13pt;
 }
 
 div#experience {
-  
+  font-size: 13pt;
 }
 
-div#Education {
-  margin: auto;
-  max-width: 500px;
-  align-items: flex-start;
-  font-family: sans-serif;
+div#education {
+  font-size: 13pt;
+  font-family: fantasy;
+}
+
+div#Volunteerwork {
+  font-size: 13pt;
+  font-family: fantasy;
+}
+
+h5 {
+  font-size: 17pt;
+  font-family: fantasy;
+}
+
+h6 {
+  font-size: 18pt;
 }
