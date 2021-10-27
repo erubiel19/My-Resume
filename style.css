@@ -3,11 +3,11 @@ body {
   max-width: 500px;
   align-items: flex-start;
   font-size: 15pt;
-  font-family: fantasy;
+  font-family: sans-serif;
 }
 
 div#profile {
-  font-family: fantasy;
+  font-family: sans-serif;
   font-size: 13pt;
 }
 
@@ -17,17 +17,17 @@ div#experience {
 
 div#education {
   font-size: 13pt;
-  font-family: fantasy;
+  font-family: sans-serif;
 }
 
 div#Volunteerwork {
   font-size: 13pt;
-  font-family: fantasy;
+  font-family: sans-serif;
 }
 
 h5 {
   font-size: 17pt;
-  font-family: fantasy;
+  font-family: sans-serif;
 }
 
 h6 {
